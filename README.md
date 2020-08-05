@@ -3,7 +3,7 @@
 My name is Naruhiko Nishino a.k.a. rbtnn. I live in Japan now.
 
 ### Vim-TabSideBar (THIS IS STILL UNDER DEVELOPMENT)
-[Vim-TabSideBar](https://github.com/rbtnn/vim) is a forked vim repository added +tabsidebar feature whitch show tab pages vertically on Vim.  
+[Vim-TabSideBar](https://github.com/rbtnn/vim) is a forked vim repository added +tabsidebar feature which show tab pages vertically on Vim.  
 This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nightlybuild-tabsidebar-for-windows).
 
 ![](http://rbtnn.github.io/vim/tabsidebar.png)
