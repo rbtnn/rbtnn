@@ -23,6 +23,8 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
   This plugin provides to set &tagfunc for Vim script. The &tagfunc can jump to a function, a command and a highlight.
 * [vim-vimscript_lasterror](https://github.com/rbtnn/vim-vimscript_lasterror)  
   This plugin provides to jump to the Vim script's last error.
+* [vim-vimscript_indentexpr](https://github.com/rbtnn/vim-vimscript_indentexpr)
+  This plugin provides to format Vim script's codes.
 * [vim-jumptoline](https://github.com/rbtnn/vim-jumptoline)  
   This plugin provides to jump to the line if cursorline includes a filename with lnum such as a line of build errors.
 
@@ -87,3 +89,4 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
  [patch 8.2.1370](https://github.com/vim/vim/commit/c753478b82613df37b145764e27f5514542edb97)
  [patch 8.2.1722](https://github.com/vim/vim/commit/dbd759309b4b6abea96b18d61770e100cf4264b5)
  [patch 8.2.1835](https://github.com/vim/vim/commit/6eb36ade9883f54c84c739c6a3504ddfa3343063)
+ [patch 8.2.1966](https://github.com/vim/vim/commit/cbcd9cbd77acc8cc97c0d44683d96c01d3dd0fa7)
