@@ -24,7 +24,7 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
 * [vim-vimscript_lasterror](https://github.com/rbtnn/vim-vimscript_lasterror)  
   This plugin provides to jump to the Vim script's last error.
 * [vim-vimscript_indentexpr](https://github.com/rbtnn/vim-vimscript_indentexpr)  
-  This plugin provides to format Vim script's codes.
+  This plugin provides indentexpr supporting legacy Vim script syntax and Vim9 script syntax if possible.
 * [vim-jumptoline](https://github.com/rbtnn/vim-jumptoline)  
   This plugin provides to jump to the line if cursorline includes a filename with lnum such as a line of build errors.
 
