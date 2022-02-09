@@ -99,3 +99,4 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
  [patch 8.2.3818](https://github.com/vim/vim/commit/c479ce032f5d4d14bab9e479acbf42d758879893)
  [patch 8.2.3840](https://github.com/vim/vim/commit/ddc80aff575dd60c04c79621a0358cf0abaac53a)
  [patch 8.2.3848](https://github.com/vim/vim/commit/0ccb5842f5fb103763d106c7aa364d758343c35a)
+ [patch 8.2.4334](https://github.com/vim/vim/commit/68cc2b8a37197872e737fb61244069e13b7227a2)
