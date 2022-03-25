@@ -15,8 +15,6 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
 * [vimrc](https://github.com/rbtnn/vimrc)  
 
 ### Vim plugins
-
-#### Generic
 * [vim-gloaded](https://github.com/rbtnn/vim-gloaded)  
   This plugin provides to disable default vim plugins contained in $VIMRUNTIME.
 * [vim-vimscript_tagfunc](https://github.com/rbtnn/vim-vimscript_tagfunc)  
@@ -25,32 +23,17 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
   This plugin provides to jump to the Vim script's last error.
 * [vim-vimscript_indentexpr](https://github.com/rbtnn/vim-vimscript_indentexpr)  
   This plugin provides indentexpr supporting legacy Vim script syntax and Vim9 script syntax if possible.
-* [vim-jumptoline](https://github.com/rbtnn/vim-jumptoline)  
-  This plugin provides to jump to the line if cursorline includes a filename with lnum such as a line of build errors.
-
-#### Using +popupwin feature
 * [vim-coloredit](https://github.com/rbtnn/vim-coloredit)  
   This plugin provides to edit RGB and HSL.
 * [vim-winsbar](https://github.com/rbtnn/vim-winsbar)  
   This plugin provides that each window has a scrollbar.
-
-#### Textobj
 * [vim-textobj-verbatimstring](https://github.com/rbtnn/vim-textobj-verbatimstring)  
   This plugin provides a text object to select a verbatim string.
-```
-// a@
-@"abc""def"
-<--------->
-
-// i@
-@"abc""def"
-  <------>
-```
-
-#### Games
-* [vim-puyo](https://github.com/rbtnn/vim-puyo)
-* [vim-mario](https://github.com/rbtnn/vim-mario)
-
+* [vim-textobj-string](https://github.com/rbtnn/vim-textobj-string)  
+  This plugin provides a text object to select a string.
+* [vim-pkgsync](https://github.com/rbtnn/vim-pkgsync)
+  The minimalist plugin manager for Vim/ Neovim using +packages feature.
+  
 ### Mastodon
 * [mstdn-picker](https://github.com/rbtnn/mstdn-picker)  
 
