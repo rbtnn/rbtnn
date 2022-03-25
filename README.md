@@ -31,7 +31,7 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
   This plugin provides a text object to select a verbatim string.
 * [vim-textobj-string](https://github.com/rbtnn/vim-textobj-string)  
   This plugin provides a text object to select a string.
-* [vim-pkgsync](https://github.com/rbtnn/vim-pkgsync)
+* [vim-pkgsync](https://github.com/rbtnn/vim-pkgsync)  
   The minimalist plugin manager for Vim/ Neovim using +packages feature.
   
 ### Mastodon
