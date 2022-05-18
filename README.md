@@ -37,7 +37,9 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
   This plugin provides a text object to select a vim function name.
 * [vim-pkgsync](https://github.com/rbtnn/vim-pkgsync)  
   The minimalist plugin manager for Vim/ Neovim using +packages feature.
-  
+* [vim-ambiwidth](https://github.com/rbtnn/vim-ambiwidth)  
+  This plugin provides a set of setcellwidths() for Vim that the ambiwidth is single.
+
 ### Mastodon
 * [mstdn-picker](https://github.com/rbtnn/mstdn-picker)  
 
