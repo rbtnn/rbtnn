@@ -2,58 +2,17 @@
 
 My name is Naruhiko Nishino a.k.a. rbtnn. I live in Japan now.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rbtnn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtnn)](https://github.com/anuraghazra/github-readme-stats)
-
-### Vim-TabSideBar (THIS IS STILL UNDER DEVELOPMENT)
+### Vim-TabSideBar
 [Vim-TabSideBar](https://github.com/rbtnn/vim) is a forked vim repository added +tabsidebar feature which show tab pages vertically on Vim.  
 This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nightlybuild-tabsidebar-for-windows).
-
-![](http://rbtnn.github.io/vim/tabsidebar.png)
-
 
 ### My vimrc
 * [vimrc](https://github.com/rbtnn/vimrc)  
 
-### Vim plugins
-* [vim-gloaded](https://github.com/rbtnn/vim-gloaded)  
-  This plugin provides to disable default vim plugins contained in $VIMRUNTIME.
-* [vim-vimscript_tagfunc](https://github.com/rbtnn/vim-vimscript_tagfunc)  
-  This plugin provides to set &tagfunc for Vim script. The &tagfunc can jump to a function, a command and a highlight.
-* [vim-vimscript_lasterror](https://github.com/rbtnn/vim-vimscript_lasterror)  
-  This plugin provides to jump to the Vim script's last error.
-* [vim-vimscript_indentexpr](https://github.com/rbtnn/vim-vimscript_indentexpr)  
-  This plugin provides indentexpr supporting legacy Vim script syntax and Vim9 script syntax if possible.
-* [vim-coloredit](https://github.com/rbtnn/vim-coloredit)  
-  This plugin provides to edit RGB and HSL.
-* [vim-winsbar](https://github.com/rbtnn/vim-winsbar)  
-  This plugin provides that each window has a scrollbar.
-* [vim-textobj-verbatimstring](https://github.com/rbtnn/vim-textobj-verbatimstring)  
-  This plugin provides a text object to select a verbatim string.
-* [vim-textobj-string](https://github.com/rbtnn/vim-textobj-string)  
-  This plugin provides a text object to select a string.
-* [vim-textobj-vimfunctionname](https://github.com/rbtnn/vim-textobj-vimfunctionname)  
-  This plugin provides a text object to select a vim function name.
-* [vim-pkgsync](https://github.com/rbtnn/vim-pkgsync)  
-  The minimalist plugin manager for Vim/ Neovim using +packages feature.
-* [vim-ambiwidth](https://github.com/rbtnn/vim-ambiwidth)  
-  This plugin provides a set of setcellwidths() for Vim that the ambiwidth is single.
-
-### Mastodon
-* [mstdn-picker](https://github.com/rbtnn/mstdn-picker)  
-
-### Web Sites
-* [https://backspace.fm/](https://backspace.fm/)  
-
-### Golang
-* [go-wandbox](https://github.com/rbtnn/go-wandbox)  
-  This is a wandbox CLI.
-* [go-filewatcher](https://github.com/rbtnn/go-filewatcher)  
-
-### Contribute
-
-#### [vim/vim](https://github.com/vim/vim)
+### Contribution / Maintenance 
+* [https://backspace.fm/](https://backspace.fm/) 
+* [vim/vim](https://github.com/vim/vim)
+<!--
  [patch 7.4.1742](https://github.com/vim/vim/commit/5d18e0eca59ffbba22c7f7c91c9f99d672095728)
  [patch 7.4.2174](https://github.com/vim/vim/commit/c8ce615299b4d8c1b2e6cf83496f48cd497d8a37)
  [patch 7.4.2293](https://github.com/vim/vim/commit/edf3f97ae2af024708ebb4ac614227327033ca47)
@@ -92,3 +51,11 @@ This nightlybuild on Windows OS is uploaded [here](https://github.com/rbtnn/nigh
  [patch 8.2.3840](https://github.com/vim/vim/commit/ddc80aff575dd60c04c79621a0358cf0abaac53a)
  [patch 8.2.3848](https://github.com/vim/vim/commit/0ccb5842f5fb103763d106c7aa364d758343c35a)
  [patch 8.2.4334](https://github.com/vim/vim/commit/68cc2b8a37197872e737fb61244069e13b7227a2)
+ [patch 9.0.0633](https://github.com/vim/vim/commit/b850c39676db21c6f1aa3afed0e2e48d407dd60e)
+-->
+
+### Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rbtnn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtnn)](https://github.com/anuraghazra/github-readme-stats)
